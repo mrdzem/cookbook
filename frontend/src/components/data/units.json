@@ -1,0 +1,11 @@
+[
+    {"id":1, "unit": "kg"},
+    {"id":2, "unit": "g"},
+    {"id":3, "unit": "ml"},
+    {"id":4, "unit": "Cup"},
+    {"id":5, "unit": "Table spoon"},
+    {"id":6, "unit": "Tea spoon"},
+    {"id":7, "unit": "Pieces"},
+    {"id":8, "unit": "Drops"},
+    {"id":9, "unit": "Pinch"}
+  ]

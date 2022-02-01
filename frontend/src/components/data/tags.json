@@ -1,0 +1,17 @@
+[
+    {"tagName": "Vegetarian"},
+    {"tagName": "Vegan"},
+    {"tagName": "Ketogenic"},
+    {"tagName": "Gluten-free"},
+    {"tagName": "Sugar-Free"},
+    {"tagName": "Meat"},
+    {"tagName": "Paleo"},
+    {"tagName": "Pascatarian"},
+    {"tagName": "Pioppi"},
+    {"tagName": "Low-carb"},
+    {"tagName": "High-protein"},
+    {"tagName": "Dukan"},
+    {"tagName": "Atkins"},
+    {"tagName": "Lactose-free"},
+    {"tagName": "Nut-free"}
+  ]
